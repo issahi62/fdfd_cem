@@ -1,2 +1,2 @@
-# fdfd_cem
-Finite Difference Frequency Domain
+# FDFD
+Various Finite Difference Frequency Domain Implementations
